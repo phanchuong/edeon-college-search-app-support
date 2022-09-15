@@ -8,4 +8,4 @@ Search for U.S. colleges at your fingertips! College Search app browses schools 
 * Results by rankings
 * College websites
 
-Email: phanchuong@gmail.com
+Contact us: https://forms.gle/wSz8tTd3bLVfHuRQ7
