@@ -8,6 +8,6 @@ Search for U.S. colleges at your fingertips! College Search app browses schools 
 * Results by rankings
 * College websites
 
-Support email: [phanchuong@gmail.com](mailto:phanchuong@gmail.com)
+Support email: [edeon.info@proton.me](mailto:edeon.info@proton.me)
 
 Contact form: [https://forms.gle/wSz8tTd3bLVfHuRQ7](https://forms.gle/wSz8tTd3bLVfHuRQ7)
